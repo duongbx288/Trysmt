@@ -7,6 +7,7 @@ public class A_3_Input {
 	
 	public static void main(String[] args) {
 		
+		//Important
 		Scanner scanner = new Scanner(System.in);
 	
 		System.out.println("What is ur name? ");
@@ -16,6 +17,8 @@ public class A_3_Input {
 		scanner.nextLine(); //
 		System.out.println("What is your favorite hobby?");
 		String hobby = scanner.nextLine();
+		
+		
 		// Warning: Use .nextInt() before .nextLine()
 		// will have some problem: 
 		// as .nextInt() doesn't read the '\n' character in the scanner.
