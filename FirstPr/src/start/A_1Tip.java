@@ -1,7 +1,7 @@
+package start;
 
-public class Main {
-	
-	
+public class A_1Tip {
+	// Some tips & tricks:
 	/* 
 	 */
 	//   '\t' is tab
