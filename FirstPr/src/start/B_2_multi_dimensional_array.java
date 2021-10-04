@@ -25,6 +25,6 @@ public class B_2_multi_dimensional_array {
 		
 		//U can assign all elements needed at the declaration phase
 		//String[][] cars = {{"Camaer","helo","heafs"},{"sdaf"," ", "af"},
-		//   				{"ferrari", "lambo", "cardv"}};
+		// {"ferrari", "lambo", "cardv"}};
 	}
 }

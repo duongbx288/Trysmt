@@ -8,11 +8,11 @@ public class B_4_Wrapper_classes {
 		// can be used with collections (ex/ArrayList)
 
 		// primitive ------> //wrapper
-		// --------- //-------
-		// boolean Boolean
-		// char Character
-		// int Integer
-		// double Double
+		// --------- 		 //-------
+		// boolean 			 Boolean
+		// char 			 Character
+		// int 				 Integer
+		// double 			 Double
 
 		// autoboxing = automatic conversion Java compiler makes
 		// unboxing = the reserve of autoboxing.
