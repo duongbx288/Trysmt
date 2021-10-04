@@ -10,6 +10,7 @@ public class A_1Tip {
 	// Use sysout + Ctrl + Space to get the command: "System.out.println"
 	// Use Edit->Find/Replace to Replace
 	// Use Window -> Show view -> ***
+	// Ctrl+Shift+F to organize ur code
 	
 	public static void main(String[] args) {
 		System.out.println("\tI love pizza\n");
