@@ -20,8 +20,6 @@ public class D_3_static_keyword {
 		// as 'numberOfFriends' is a static variables
 		System.out.println(Friend.numberOfFriends); 
 		Friend.displayFriends();
-		
-		
 		 
 	}
 }
