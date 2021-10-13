@@ -13,9 +13,9 @@ public class D_5_Overriding {
 		// -> Check 'Vehicle' and 'Train' class in 'Objects' package
 		// 'Train' class inherits 'Vehicle' class
 		Train train = new Train();
-		Vehicle bike = new Vehicle();
+		//Vehicle bike = new Vehicle();
 		
-		bike.accelerate();
+		//bike.accelerate();
 		train.accelerate();
 	
 	}
