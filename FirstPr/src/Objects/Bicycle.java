@@ -6,7 +6,12 @@ public class Bicycle extends Vehicle{
 	public int doors = 0;
 	
 	@Override
-	void run() {
-		// TODO Auto-generated method stub	
+	public void run() {
+		System.out.println("The bike starts to run");
+	}
+	
+	@Override
+	public void start() {
+		System.out.println("Bike starts going");
 	}
 }
