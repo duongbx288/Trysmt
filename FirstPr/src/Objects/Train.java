@@ -16,4 +16,9 @@ public class Train extends Vehicle{
 	public void run() {
 		System.out.println("The train's engine starts to run");
 	}
+	
+	@Override
+	public void start() {
+		System.out.println("Begin to move");
+	}
 }
