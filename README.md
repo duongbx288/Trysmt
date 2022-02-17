@@ -1,2 +1,0 @@
-+ About java basics.
-+ 
